@@ -1,2 +1,2 @@
-# 21CSS102T-UB1014-1
-Week 1 lab exercise solutions for UB1014
+# 21CSS102T-1
+Week 1 lab exercise solutions.
